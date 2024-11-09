@@ -1,12 +1,9 @@
 source "https://rubygems.org"
 
-# jekyll
-gem "jekyll", "~> 4.3"
-gem "webrick", "~> 1.7"
+# Use GitHub Pages dependencies
+gem "github-pages", group: :jekyll_plugins
 
-gem "html-proofer", "~> 5.0"
-
-# plugins
+# Include any additional plugins allowed by GitHub Pages
 group :jekyll_plugins do
   gem "jekyll-spaceship"
   gem "jekyll-sitemap"
@@ -14,3 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
 end
+
+# For running locally
+gem "webrick", "~> 1.7"
+gem "html-proofer", "~> 5.0"
