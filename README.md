@@ -1,4 +1,4 @@
-Visit **[nemudryi-lab.com](https://nemudryi-lab.com)** 🚀
+Visit **[Earth and Planetary AI Research](https://AI4EPlab.github.io)** 🚀
 
 <h1 align="center">Nemudryi Lab Website</h1>
 <p align="center">
