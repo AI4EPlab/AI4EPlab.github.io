@@ -1,8 +1,6 @@
-Visit **[Earth and Planetary AI Research](https://AI4EPlab.github.io)** 🚀
 
-<h1 align="center">Nemudryi Lab Website</h1>
-<p align="center">
-<img height="200" src="images/nemudryi_lab_logo.png" alt="Nemudryi Lab">
-</p>
+# AI4EPlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
 
-Welcome! This repository is the source code for [Nemudryi Lab website](https://nemudryi-lab.com).
+Visit **[website url](#)** 🚀
+
+_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
