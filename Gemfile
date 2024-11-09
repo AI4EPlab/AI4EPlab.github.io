@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Use GitHub Pages dependencies
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 227", group: :jekyll_plugins  # Version may need adjusting based on GitHub Pages compatibility
 
 # Include any additional plugins allowed by GitHub Pages
 group :jekyll_plugins do
